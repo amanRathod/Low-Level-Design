@@ -10,3 +10,5 @@
 7. Seats
 8. Booking
 9. Payment
+
+### How to manage Concurrency control on seat booking
